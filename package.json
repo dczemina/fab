@@ -1,0 +1,21 @@
+{
+  "name": "fab",
+  "version": "1.0.0",
+  "description": "CSS/jQuery Floating Action Button (FAB)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fab",
+    "jQuery",
+    "floating",
+    "action",
+    "button"
+  ],
+  "author": "David C Zemina",
+  "license": "MIT",
+  "dependencies": {
+    "@mdi/font": "^2.6.95"
+  }
+}
